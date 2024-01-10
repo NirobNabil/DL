@@ -1,0 +1,1 @@
+ powershell.exe -ExecutionPolicy ByPass -NoExit -Command "& 'I:\conda\shell\condabin\conda-hook.ps1' ; conda activate 'I:\conda' "
